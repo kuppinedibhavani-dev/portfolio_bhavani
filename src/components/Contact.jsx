@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
-import contactImg from "../assets/contact.png";
+import contactImg from "../assets/Contact.png";
 
 
 
